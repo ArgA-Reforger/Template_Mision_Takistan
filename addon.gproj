@@ -1,0 +1,8 @@
+GameProject {
+ ID "TemplateMisionTakistan"
+ GUID "65C6CB841AFCB930"
+ TITLE "Template_Mision_Takistan"
+ Dependencies {
+  "65A704E0944E5B5C" "615EEBD9BDFEEE9B" "58D0FB3206B6F859"
+ }
+}
